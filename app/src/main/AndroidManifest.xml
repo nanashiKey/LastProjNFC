@@ -18,5 +18,9 @@
         </activity>
         <activity android:name=".SplashS"/>
         <activity android:name=".UserControl.Login"/>
+        <activity android:name=".UserControl.TampilData"/>
+        <activity android:name=".UserControl.Tambah_Data"/>
+        <activity android:name=".UserControl.Detail_Data"/>
+        <activity android:name=".UserControl.Profile"/>
     </application>
 </manifest>
